@@ -11,7 +11,7 @@ const MONGODB_URI =
   "mongodb+srv://DevAJoin:DevAJoin2786@nodetuts.xhlud.mongodb.net/node-tuts";
 
 mongoose.connect(MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true })
-  .then(result => app.listen(3000))
+  .then(result => app.listen(6660))
   .catch(error => console.log(error));
 
 // register view engine

@@ -52,6 +52,11 @@ nav a {
 }
 
 footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
     color: #777;
     text-align: center;
     margin: 80px auto 20px;
