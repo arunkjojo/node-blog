@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "crush-course",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunkjojo/node-crash-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunkjojo/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/arunkjojo/node-crash-course#readme",
+  "description": ""
+}
