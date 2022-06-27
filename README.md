@@ -1,4 +1,4 @@
-# node-crash-course
+# node-blog
 First Nodejs application
 
 In this application I am mostly using Node.Js, MongoDB, and EJS.
